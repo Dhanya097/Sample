@@ -1,0 +1,114 @@
+1  
+
+
+
+
+
+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
+
+
+
+
+echo "# Sample" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Dhanya097/Sample.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/Dhanya097/Sample.git
+git branch -M main
+git push -u origin main
+
+----------------------
+sudo yum install git -y
+    2  git version
+    3  ls -lrt
+    4  git clone https://github.com/Dhanya097/Sample.git
+    5  ls -lrt
+    6  cd Sample
+    7  ls -lrt
+    8  git init
+    9  git checkout -b feature/A
+   10  git branch
+   11  git switch master
+   12  git checkout feature/A
+   13  git branch
+   14  git checkout -b B
+   15  git branch
+   16  switch branch featute/A
+   17  git switch  featute/A
+   18  git switch  feature/A
+   19  vi A1.txt
+   20  git commit -a -m "fg"
+   21  git add
+   22  git add .
+   23  git commit -m "fgk"
+   24  git remote add origin https://github.com/Dhanya097/Sample.git
+   25  git push -u origin feature/A
+   26  git merge B
+   27  git merge B feature/A
+   28* git switch 
+   29  git merge feature/A
+   30  git push 
+   31  git push -u origin
+   32  git push -u origin B
+   33  git pull master
+   34  git switch master
+   35  git merge B
+   36  git switch A
+   37  git switch feature/A
+   38  ls -lrt
+   39  vi A1.txt 
+   40  git commit -a -m "fgh"
+   41  git switch B
+   42  git pull
+   43  git merge A
+   44  git merge feature/A
+   45  vi A1.txt
+   46  git commit -a -m "fdsf"
+   47  git log --oneline
+   48  git revert cca8c95
+   49  git revert --hard cca8c95
+   50  git reset --hard cca8c95
+   51  ls -lrt
+   52  cat A1.txt
+   53  git branch
+   54  git log --oneline
+   55  git revert 6bdbf9a
+   56  vi A1.txt
+   57  ls -lrt
+   58  git commit -a -m "hdfk"
+   59  git log --oneline
+   60  git revert cca8c95
+   61  git revert HEAD
+   62  cat A1.txt
+   63  git commit -a -m "hdfk"
+   64  git log --oneline
+   65  git reset f7370c4
+   66  vi A1.txt
+   67  git reset bdbf9a
+   68  git reset 6bdbf9a
+   69  cat A1.txt
+   70  git reset --hard bdbf9a
+   71  git reset --hard 6bdbf9a
+   72  cat A1.txt
+   73  git diff feature/A B
+   74  git show
+   75  git stash
+   76  vi A1.txt
+   77  git stash
+   78  git stash list
+   79  git switch feature/A
+   80  cat A1.txt
+   81  git stash apply
+   82  vi A1.txt
+   83  ls -lrt
+   84  git commit -a -m "dhksh"
+   85  git push -u origin B
+   86  git push -u origin feature/A
+   87  git fetch 
+   88  cat A1.txt
+   89  ls -lrt
+   90  history
