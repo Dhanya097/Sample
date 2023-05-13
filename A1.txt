@@ -1,1 +1,3 @@
 dog
+love
+hate
