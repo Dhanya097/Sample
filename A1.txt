@@ -1,2 +1,8 @@
 dog
+<<<<<<< Updated upstream
 cat
+=======
+love
+hate
+giraffeee
+>>>>>>> Stashed changes
